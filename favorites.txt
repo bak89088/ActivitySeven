@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Crepes
 Strawberries
 Peanut Butter Cookies
+=======
+Spirit: Stallion of the Cimarron
+Golden Compass
+Harry Potter
+>>>>>>> movies
